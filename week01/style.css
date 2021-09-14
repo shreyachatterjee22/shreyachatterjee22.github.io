@@ -1,1 +1,9 @@
-This is a CSS file :) 
+h1:hover{background-color: rgba(100, 148, 237, 0.349);}
+h2.subhead:hover {background-color:rgba(100, 148, 237, 0.349) ;}
+div.text:hover{background-color:rgba(100, 148, 237, 0.349);}
+#random{width: 800px;}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color:blanchedalmond;
+    }
+  }
